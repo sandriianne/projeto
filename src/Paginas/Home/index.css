@@ -1,0 +1,10 @@
+.estilo{
+    display: flex;
+    flex-direction: column;
+    border: 1px black solid; 
+    margin: 1px;
+    width: 65px;
+}
+.item{
+    border: 1px rgb(48, 48, 51) solid;
+}
